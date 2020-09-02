@@ -1,6 +1,10 @@
 # Advising Project
 > CSCI 4060 Capstone Project
 
+## To Run
+- type `npm start` in the terminal
+- open http://localhost:8080 on your computer
+
 ## Setup
 - Open Git Bash on your desktop (right click)
 - Run a few commands in your Git Bash before continuing: 
