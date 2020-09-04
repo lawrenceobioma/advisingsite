@@ -4,6 +4,7 @@
 ## To Run
 - type `npm start` in the terminal
 - open http://localhost:3000 on your computer
+- terminate localhosts: taskkill -F -IM node.exe
 
 ## Setup
 - Open Git Bash on your desktop (right click)
