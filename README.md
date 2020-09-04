@@ -3,7 +3,7 @@
 
 ## To Run
 - type `npm start` in the terminal
-- open http://localhost:8080 on your computer
+- open http://localhost:3000 on your computer
 
 ## Setup
 - Open Git Bash on your desktop (right click)
