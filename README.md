@@ -27,6 +27,11 @@ $ npm install express-session
 $npm install dotenv --save
 ```
 - This creates a .env file. We don't need it yet, so leave it blank.
+```shell
+$ npm install react-bootstrap --save
+$ npm install -D nodemon
+```
+
 > Some side notes
 
 - You'll have to download my files or you can copy/paste into files you made of the same name. Up to you. ReactJS gives you some files automatically when you use `create-react-app`, so make sure to delete the files I don't have in my repo. They won't hurt anything; they just waste space. *Basically, try to sure everything matches what's both inside and outside my files.*
