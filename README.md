@@ -37,4 +37,4 @@ $ npm install react-typescript --save
 
 - You'll have to download my files or you can copy/paste into files you made of the same name. Up to you. ReactJS gives you some files automatically when you use `create-react-app`, so make sure to delete the files I don't have in my repo. They won't hurt anything; they just waste space. *Basically, try to sure everything matches what's both inside and outside my files.*
 - Port 3000 is the client port.
-- Port 8080 is the database/server port.
+- Port 8080 *will be* the database/server port.
